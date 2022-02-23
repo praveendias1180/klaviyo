@@ -23,3 +23,17 @@ Let's look at some best practices to keep your deliverability high and maintain 
 Campaign =  Bread and Butter of Marketing
 
 ![Campaigns](campaign.png)
+
+# Key Metrics for Success
+
+- CAC - Customer Acquisition Costs
+- AOV - Average Order Value
+- NPS - Net Promoter Score
+- CLV - Customer Lifetime Value
+- 
+- Open Rates
+- Click Rates
+- Unsubscribe Rates
+- Spam Rates
+- 
+- Form Submit Rate
