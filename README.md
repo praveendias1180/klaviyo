@@ -7,3 +7,7 @@ Klaviyo CEO and Founder Andrew Bialecki says that Klaviyo is more than just an e
 # Klaviyo Product Certification
 
 ![Klaviyo Academy](klaviyo-academy.png)
+
+# Metrics for Good Deliverability
+
+![Metrics](metrics.png)
