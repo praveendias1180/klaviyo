@@ -37,3 +37,9 @@ Campaign =  Bread and Butter of Marketing
 - Spam Rates
 - 
 - Form Submit Rate
+
+# Certified 🥇 🥈 🥉
+
+![Certified](certified.png)
+
+[View Certificate](certificate-y6o8u7i68aaq-1645644868.pdf)
