@@ -11,3 +11,5 @@ Klaviyo CEO and Founder Andrew Bialecki says that Klaviyo is more than just an e
 # Metrics for Good Deliverability
 
 ![Metrics](metrics.png)
+
+![Flow Benchmarks](flow-benchmarks.png)
